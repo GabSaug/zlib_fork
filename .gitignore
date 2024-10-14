@@ -1,3 +1,6 @@
+build
+make_log.txt
+Makefile
 *.diff
 *.patch
 *.orig
