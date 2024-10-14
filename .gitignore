@@ -1,5 +1,5 @@
 build
-make_log.txt
+log_make.txt
 Makefile
 *.diff
 *.patch
